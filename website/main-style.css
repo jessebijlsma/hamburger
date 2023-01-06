@@ -1,0 +1,18 @@
+@import "css/css-hero.css";
+@import "css/css-nav.css";
+@import "css/blog.css";
+
+:root {
+    --navbar-color: hsl(0, 0%, 4%);
+    --main-nav-color: hsl(0, 100%, 96%);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(232, 229, 229);
+}
